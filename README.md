@@ -1,5 +1,9 @@
 # DigitalIdentity-using-python-and-smart-contract-on-ethereum-blockchain-
 
+> Start the ipfs daemon first using:
+```javascript
+ipfs daemon
+```
 abi will be the same if you are using this contract.
 
     abi = json.loads(
